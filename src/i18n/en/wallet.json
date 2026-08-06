@@ -1,0 +1,45 @@
+{
+  "user": {
+    "title": "User Wallet",
+    "email": "Email",
+    "baseAsset": "Base Asset"
+  },
+  "wallet": {
+    "title": "Wallet Credentials",
+    "description": "Your API keys are encrypted and stored securely. For security reasons, only masked values are displayed.",
+    "exchangeProvider": "Exchange Provider",
+    "apiKey": "API Key",
+    "secretKey": "Secret Key",
+    "noData": "No credentials found"
+  },
+  "form": {
+    "btn": {
+      "save": "Save Credentials"
+    }
+  },
+  "guide": {
+    "title": "Binance API Setup Guide",
+    "step1": "Step 1: Complete Questionnaire",
+    "step1Text": "You must complete the Binance Convert API questionnaire to get access.",
+    "step1Link": "Complete questionnaire",
+    "step2": "Step 2: Create API Key",
+    "step2Text": "After approval, create a new API key in your Binance account.",
+    "step2Link": "View API creation guide",
+    "step3": "Step 3: Add IP Restriction",
+    "step3Text": "For security, add the following IP address to your API key restrictions:",
+    "importantNotice": "Important Notice",
+    "importantNoticeText": "All users of this service are subject to the Binance Terms of Use and the use of the API services is not suitable for purposes including price arbitrage, high frequency trading or price exploitation. Binance may restrict or terminate a Binance API Connection at any time for any reason in its sole discretion and is not obliged to provide any prior notice to the User of any such restriction or termination or any reason therefore.",
+    "importantNoticeText2": "Your API keys are encrypted and stored securely."
+  },
+  "credentials": {
+    "editWarning": {
+      "title": "Credential In Use",
+      "description": "This credential is currently being used by the following strategies. Editing it may affect their performance."
+    }
+  },
+  "strategies": {
+    "form": {
+      "name": "Strategy Name"
+    }
+  }
+}

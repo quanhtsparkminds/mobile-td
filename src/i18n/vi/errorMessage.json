@@ -1,0 +1,49 @@
+{
+  "required": "Trường này là bắt buộc",
+  "invalid": "Định dạng không hợp lệ",
+  "passwordMismatch": "Mật khẩu và xác nhận mật khẩu không khớp",
+  "strategies": {
+    "form": {
+      "nameRequired": "Tên là bắt buộc",
+      "timeframeRequired": "Khung thời gian là bắt buộc",
+      "assetClassRequired": "Loại tài sản là bắt buộc",
+      "regionRequired": "Khu vực là bắt buộc",
+      "defensiveAssetRequired": "Tài sản phòng thủ là bắt buộc",
+      "indexAssetRequired": "Tài sản chỉ số là bắt buộc",
+      "indexCurrencyRequired": "Tiền tệ chỉ số là bắt buộc",
+      "movingAveragesRequired": "Đường trung bình động là bắt buộc",
+      "emailAlertsRequired": "Cảnh báo email là bắt buộc",
+      "walletCredentialsRequired": "Thông tin xác thực ví là bắt buộc",
+      "modeRequired": "Chế độ là bắt buộc",
+      "walletRequired": "Ví là bắt buộc",
+      "totalCapitalInvalid": "Vốn tổng không hợp lệ",
+      "totalCapitalPositive": "Vốn tổng phải lớn hơn 0",
+      "assetsRequired": "Phải có ít nhất một tài sản",
+      "maTypeRequired": "Loại đường trung bình động là bắt buộc",
+      "shortMaPeriodInvalid": "Chu kỳ MA ngắn không hợp lệ",
+      "shortMaPeriodMin": "Chu kỳ MA ngắn phải ít nhất là 2",
+      "longMaPeriodInvalid": "Chu kỳ MA dài không hợp lệ",
+      "longMaPeriodMin": "Chu kỳ MA dài phải ít nhất là 2",
+      "notificationEmailInvalid": "Địa chỉ email không hợp lệ",
+      "shortMaMustBeLessThanLong": "MA ngắn phải nhỏ hơn MA dài",
+      "notificationEmailRequired": "Email thông báo là bắt buộc",
+      "scheduledRunTimeRequired": "Thời gian chạy theo lịch trình là bắt buộc",
+      "defensiveAssetCannotBeInAssets": "Tài sản phòng thủ không được có trong tài sản chỉ số",
+      "error": "Không thể tạo chiến lược. Vui lòng thử lại.",
+      "assets": "Tài sản",
+      "searchAssets": "Tìm kiếm tài sản...",
+      "loadingAssets": "Đang tải tài sản...",
+      "noAssetsMatch": "Không có tài sản nào khớp với tìm kiếm của bạn",
+      "noAssetsAvailable": "Không có tài sản nào",
+      "walletInvalid": "Ví không hợp lệ"
+    }
+  },
+  "walletCredentials": {
+    "form": {
+      "nameRequired": "Tên là bắt buộc",
+      "apiKeyRequired": "API key là bắt buộc",
+      "secretKeyRequired": "Secret key là bắt buộc",
+      "providerRequired": "Provider là bắt buộc"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "deactivateAsset": {
+    "title": "Hủy kích hoạt tài sản",
+    "description": "Bạn có chắc chắn muốn hủy kích hoạt {{asset}}? Điều này sẽ làm cho tài sản không khả dụng để giao dịch.",
+    "confirm": "Hủy kích hoạt",
+    "cancel": "Hủy"
+  },
+  "activeAsset": {
+    "title": "Kích hoạt tài sản",
+    "description": "Bạn có chắc chắn muốn kích hoạt {{asset}}? Điều này sẽ làm cho tài sản khả dụng để giao dịch.",
+    "confirm": "Kích hoạt",
+    "cancel": "Hủy"
+  },
+  "provider": {
+    "COINDESK": "CoinDesk",
+    "TWELVE_DATA": "Twelve Data"
+  },
+  "form": {
+    "canBeIndexAsset": {
+      "title": "Tài sản chỉ số",
+      "description": "Được sử dụng như tài sản chỉ số"
+    },
+    "canBeIndexCurrency": {
+      "title": "Tài sản chỉ số",
+      "description": "Được sử dụng như đơn vị hiển thị"
+    },
+    "canBeDefensiveAsset": {
+      "title": "Tài sản phòng ngự",
+      "description": "Được chọn như tài sản phòng ngự trong các chiến lược"
+    },
+    "createSuccess": "Tài sản đã được tạo thành công.",
+    "updateSuccess": "Tài sản đã được cập nhật thành công."
+  }
+}

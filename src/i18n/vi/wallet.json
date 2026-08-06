@@ -1,0 +1,45 @@
+{
+  "user": {
+    "title": "Ví người dùng",
+    "email": "Email",
+    "baseAsset": "Tài sản cơ sở"
+  },
+  "wallet": {
+    "title": "Thông tin ví",
+    "description": "API key của bạn được mã hóa và lưu trữ an toàn. Vì lý do bảo mật, chỉ hiển thị các giá trị đã che.",
+    "exchangeProvider": "Nhà cung cấp",
+    "apiKey": "API Key",
+    "secretKey": "Secret Key",
+    "noData": "Không tìm thấy thông tin xác thực"
+  },
+  "form": {
+    "btn": {
+      "save": "Lưu"
+    }
+  },
+  "guide": {
+    "title": "Hướng dẫn cài đặt API Binance",
+    "step1": "Bước 1: Hoàn thành khảo sát",
+    "step1Text": "Bạn phải hoàn thành khảo sát API Binance để có quyền truy cập.",
+    "step1Link": "Hoàn thành khảo sát",
+    "step2": "Bước 2: Tạo API Key",
+    "step2Text": "Sau khi được phê duyệt, hãy tạo một API key mới trong tài khoản Binance của bạn.",
+    "step2Link": "Xem hướng dẫn tạo API",
+    "step3": "Bước 3: Thêm IP",
+    "step3Text": "Để đảm bảo an toàn, hãy thêm địa chỉ IP sau vào các hạn chế API key của bạn:",
+    "importantNotice": "Lưu ý quan trọng",
+    "importantNoticeText": "Tất cả các người dùng của dịch vụ này đều chịu trách nhiệm sử dụng API Binance và sử dụng các dịch vụ API không phù hợp cho mục đích bao gồm giao dịch lạm dụng giá, giao dịch cao tần hoặc lạm dụng giá. Binance có thể hạn chế hoặc ngừng kết nối API Binance của bạn bất kỳ lúc nào vì bất kỳ lý do nào trong sự độc lập của mình và không có nghĩa vụ thông báo trước người dùng về bất kỳ hạn chế hoặc ngừng kết nối nào hoặc lý do vì vậy.",
+    "importantNoticeText2": "API key của bạn được mã hóa và lưu trữ an toàn. Vì lý do bảo mật, chỉ hiển thị các giá trị đã che."
+  },
+  "credentials": {
+    "editWarning": {
+      "title": "Cảnh báo chỉnh sửa",
+      "description": "Thông tin xác thực này hiện đang được sử dụng bởi các chiến lược sau. Việc chỉnh sửa có thể ảnh hưởng đến hiệu suất của chúng."
+    }
+  },
+  "strategies": {
+    "form": {
+      "name": "Tên chiến lược"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "colorSchemeName": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "assetStatus": {
+    "ACTIVE": "Active",
+    "PAUSED": "Paused",
+    "STOPPED": "Stopped"
+  }
+}

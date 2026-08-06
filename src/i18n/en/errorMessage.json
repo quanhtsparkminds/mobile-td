@@ -1,0 +1,44 @@
+{
+  "required": "This field is required",
+  "invalid": "Invalid format",
+  "passwordMismatch": "Password and confirm password do not match",
+  "assetsRequired": "At least one asset is required",
+  "strategies": {
+    "form": {
+      "nameRequired": "Name is required",
+      "timeframeRequired": "Timeframe is required",
+      "assetClassRequired": "Asset class is required",
+      "regionRequired": "Region is required",
+      "defensiveAssetRequired": "Defensive asset is required",
+      "indexAssetRequired": "Index asset is required",
+      "indexCurrencyRequired": "Index currency is required",
+      "movingAveragesRequired": "Moving averages is required",
+      "emailAlertsRequired": "Email alerts is required",
+      "walletCredentialsRequired": "Wallet credentials is required",
+      "modeRequired": "Mode is required",
+      "walletRequired": "Wallet is required",
+      "totalCapitalInvalid": "Invalid total capital",
+      "totalCapitalPositive": "Total capital must be positive",
+      "assetsRequired": "At least one asset is required",
+      "maTypeRequired": "Moving average type is required",
+      "shortMaPeriodInvalid": "Invalid short MA period",
+      "shortMaPeriodMin": "Short MA period must be at least 2",
+      "longMaPeriodInvalid": "Invalid long MA period",
+      "longMaPeriodMin": "Long MA period must be at least 2",
+      "notificationEmailInvalid": "Invalid email address",
+      "shortMaMustBeLessThanLong": "Short MA must be less than long MA",
+      "notificationEmailRequired": "Notification email is required",
+      "scheduledRunTimeRequired": "Scheduled run time is required",
+      "defensiveAssetCannotBeInAssets": "Defensive asset cannot be in index assets",
+      "walletInvalid": "Invalid wallet"
+    }
+  },
+  "walletCredentials": {
+    "form": {
+      "nameRequired": "Name is required",
+      "apiKeyRequired": "API key is required",
+      "secretKeyRequired": "Secret key is required",
+      "providerRequired": "Provider is required"
+    }
+  }
+}

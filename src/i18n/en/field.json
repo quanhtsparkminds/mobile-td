@@ -1,0 +1,125 @@
+{
+  "email": {
+    "label": "Email",
+    "placeholder": "Enter your email"
+  },
+  "password": {
+    "label": "Password",
+    "placeholder": "Enter your password"
+  },
+  "accountType": {
+    "label": "Account Type",
+    "placeholder": "Select your account type"
+  },
+  "confirmPassword": {
+    "label": "Confirm Password",
+    "placeholder": "Enter your confirm password"
+  },
+  "dateOfBirth": {
+    "label": "Date of Birth",
+    "placeholder": "Select your date of birth"
+  },
+  "name": {
+    "label": "Strategy Name",
+    "placeholder": "Enter your strategy name"
+  },
+  "assetClass": {
+    "label": "Asset Class",
+    "placeholder": "Select your asset class"
+  },
+  "region": {
+    "label": "Region",
+    "placeholder": "Select your region"
+  },
+  "mode": {
+    "label": "Strategy Mode",
+    "placeholder": "Select your strategy mode"
+  },
+  "walletCredentialsId": {
+    "label": "Wallet Credentials",
+    "placeholder": "Select your wallet credentials"
+  },
+  "totalCapital": {
+    "label": "Total Capital",
+    "placeholder": "0.00"
+  },
+  "defensiveAsset": {
+    "label": "Defensive Asset",
+    "placeholder": "Select your defensive asset"
+  },
+  "scheduledRunTime": {
+    "label": "Scheduled Run Time",
+    "placeholder": "Select your scheduled run time"
+  },
+  "timeframe": {
+    "label": "Timeframe",
+    "placeholder": "Select your timeframe"
+  },
+  "maType": {
+    "label": "MA Type",
+    "placeholder": "Select your MA type"
+  },
+  "shortMaPeriod": {
+    "label": "Short MA Period",
+    "placeholder": "50"
+  },
+  "longMaPeriod": {
+    "label": "Long MA Period",
+    "placeholder": "200"
+  },
+  "indexCurrency": {
+    "label": "Index Currency",
+    "placeholder": "Select your index currency"
+  },
+  "notificationEmail": {
+    "label": "Notification Email",
+    "placeholder": "Enter your notification email",
+    "disable-placeholder": "Email is disabled"
+  },
+  "slackWebhookUrl": {
+    "label": "Slack Webhook URL",
+    "placeholder": "Enter your slack webhook url",
+    "disable-placeholder": "Slack is disabled"
+  },
+  "telegramChatId": {
+    "label": "Telegram Chat ID",
+    "placeholder": "Enter your telegram chat id",
+    "disable-placeholder": "Telegram is disabled"
+  },
+  "assets": {
+    "label": "Assets",
+    "placeholder": "Select your assets"
+  },
+  "symbol": {
+    "label": "Symbol",
+    "placeholder": "Enter your symbol"
+  },
+  "logoUrl": {
+    "label": "Logo URL",
+    "placeholder": "https://..."
+  },
+  "displayOrder": {
+    "label": "Display Order",
+    "placeholder": "Enter your display order"
+  },
+  "priceProvider": {
+    "label": "Price Provider",
+    "placeholder": "Select your price provider"
+  },
+  "description": {
+    "label": "Description",
+    "placeholder": "Enter your description"
+  },
+  "provider": {
+    "label": "Provider",
+    "placeholder": "Select your provider"
+  },
+  "apiKey": {
+    "label": "API Key",
+    "placeholder": "Enter your api key"
+  },
+  "secretKey": {
+    "label": "Secret Key",
+    "placeholder": "Enter your secret key"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "colorSchemeName": {
+    "light": "Sáng",
+    "dark": "Tối",
+    "system": "Hệ thống"
+  },
+  "assetStatus": {
+    "ACTIVE": "Kích hoạt",
+    "PAUSED": "Tạm dừng",
+    "STOPPED": "Dừng"
+  }
+}

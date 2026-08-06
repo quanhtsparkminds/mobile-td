@@ -1,0 +1,34 @@
+{
+  "deactivateAsset": {
+    "title": "Deactivate Asset",
+    "description": "Are you sure you want to deactivate {{asset}}? This will make the asset unavailable for trading.",
+    "confirm": "Deactivate",
+    "cancel": "Cancel"
+  },
+  "activeAsset": {
+    "title": "Activate Asset",
+    "description": "Are you sure you want to activate {{asset}}? This will make the asset available for trading.",
+    "confirm": "Activate",
+    "cancel": "Cancel"
+  },
+  "provider": {
+    "COINDESK": "CoinDesk",
+    "TWELVE_DATA": "Twelve Data"
+  },
+  "form": {
+    "canBeIndexAsset": {
+      "title": "Index Asset",
+      "description": "Can be used as index asset"
+    },
+    "canBeIndexCurrency": {
+      "title": "Index Currency",
+      "description": "Can be used as display unit"
+    },
+    "canBeDefensiveAsset": {
+      "title": "Defensive Asset",
+      "description": "Can be selected as defensive asset in strategies"
+    },
+    "createSuccess": "Asset created successfully.",
+    "updateSuccess": "Asset updated successfully."
+  }
+}

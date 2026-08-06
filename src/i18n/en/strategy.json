@@ -1,0 +1,106 @@
+{
+    "totalCapital": "Total Capital",
+    "currentValue": "Current Value",
+    "pnl": "PnL",
+    "pnlPercent": "PnL %",
+    "mode": "Strategy Mode",
+    "walletCredentials": "Wallet Credentials",
+    "timeframe": "Timeframe",
+    "movingAverages": "Moving Averages",
+    "emailAlerts": "Email Alerts",
+    "lastUpdated": "Updated",
+    "nextRotation": "Next rotation",
+    "assets": "Assets",
+    "notScheduled": "Not scheduled",
+    "strategyMode": {
+        "FULLY_AUTOMATED": "Fully Automated",
+        "ADVISORY_NOTIFY_ONLY": "Advisory (Notify Only)",
+        "ADVISORY_MANUAL_APPROVE": "Advisory (Manual Approve)"
+    },
+    "marketHours": "Market Hours: {{open}} - {{close}} ({{timezone}})",
+    "lunchBreak": "Lunch Break: {{start}} - {{end}}",
+    "strategies": {
+        "btn": {
+            "save": "Save"
+        },
+        "form": {
+            "error": "Failed to create strategy. Please try again.",
+            "assets": "Assets",
+            "searchAssets": "Search assets...",
+            "loadingAssets": "Loading assets...",
+            "noAssetsMatch": "No assets match your search",
+            "noAssetsAvailable": "No assets available",
+            "selectedCount": "{{count}} assets selected",
+            "selectAsset": "Select asset"
+        },
+        "edit": {
+            "title": "Edit Strategy",
+            "description": "Update the strategy name, assets, or check interval.",
+            "saving": "Saving...",
+            "error": "Failed to update strategy. Please try again."
+        },
+        "stockModeConfirm": {
+            "title": "Switch to Stock Mode",
+            "description": "Switching to Stock mode will set the strategy to Advisory (Notify Only) and enable email alerts. Automation is currently only available for Crypto.",
+            "note": "Note: You can still use Technical Indicators to generate signals for Stocks."
+        },
+        "assetPreview": {
+            "simpleConfirm": {
+                "addTitle": "Add {{asset}}",
+                "addMessage": "Are you sure you want to add {{asset}} to your strategy?",
+                "removeTitle": "Remove {{asset}}",
+                "removeMessage": "Are you sure you want to remove {{asset}} from your strategy?"
+            }
+        }
+    },
+    "preview": {
+        "title": "Strategy Preview: {{strategyName}}",
+        "totalCapital": "Total Capital",
+        "allocatedPerAsset": "Allocated Per Asset",
+        "estimatedLoss": "Estimated Loss",
+        "confirmCreate": "Confirm & Create Strategy",
+        "tokenCostNote": "Creating this strategy will cost 5 tokens",
+        "warnings": "Warnings",
+        "disclaimer": "These are estimates based on current market prices and historical slippage data. Actual values may vary due to market volatility and liquidity conditions.",
+        "conversionEstimates": "Conversion Estimates",
+        "totalEstimatedLoss": "Total Estimated Loss",
+        "createSuccess": "Strategy created successfully!"
+    },
+    "details": {
+        "dominant": "Dominant",
+        "allocatedCapital": "Allocated",
+        "positionQty": "Position Qty",
+        "tradingSignal": "Trading Signal",
+        "defensiveSignal": "Defensive Signal",
+        "dominantAssets": "Dominant Assets",
+        "nextRotation": "Next rotation",
+        "notScheduled": "Not scheduled"
+    },
+    "signals": {
+        "shortMa": "Short MA",
+        "longMa": "Long MA",
+        "currentPrice": "Current Price",
+        "timeframe": "Timeframe",
+        "maPeriods": "MA Periods",
+        "crossover": "Crossover",
+        "detected": "Detected",
+        "neutralExplanation": "No clear dominance detected",
+        "bullExplanation": "Short MA > Long MA → Bullish trend",
+        "bearExplanation": "Short MA < Long MA → Bearish trend",
+        "errorTitle": "Failed to load signals",
+        "errorDescription": "Unable to fetch trading signals"
+    },
+    "history": {
+        "allStatuses": "All",
+        "status": {
+            "PENDING": "Pending",
+            "AUTO_EXECUTED": "Auto Executed",
+            "MANUALLY_EXECUTED": "Manually Executed",
+            "IGNORED": "Ignored",
+            "SUPERSEDED": "Superseded",
+            "EXPIRED": "Expired",
+            "NOTIFIED": "Notified"
+        },
+        "noSignals": "No signals found"
+    }
+}

@@ -1,0 +1,125 @@
+{
+  "email": {
+    "label": "Email",
+    "placeholder": "Nhập email của bạn"
+  },
+  "password": {
+    "label": "Mật khẩu",
+    "placeholder": "Nhập mật khẩu của bạn"
+  },
+  "accountType": {
+    "label": "Loại tài khoản",
+    "placeholder": "Chọn loại tài khoản của bạn"
+  },
+  "confirmPassword": {
+    "label": "Xác nhận mật khẩu",
+    "placeholder": "Nhập lại mật khẩu của bạn"
+  },
+  "dateOfBirth": {
+    "label": "Ngày sinh",
+    "placeholder": "Chọn ngày sinh của bạn"
+  },
+  "name": {
+    "label": "Tên chiến lược",
+    "placeholder": "Nhập tên chiến lược"
+  },
+  "assetClass": {
+    "label": "Loại tài sản",
+    "placeholder": "Chọn loại tài sản"
+  },
+  "region": {
+    "label": "Khu vực",
+    "placeholder": "Chọn khu vực"
+  },
+  "mode": {
+    "label": "Chế độ chiến lược",
+    "placeholder": "Chọn chế độ chiến lược"
+  },
+  "walletCredentialsId": {
+    "label": "Tài khoản ví",
+    "placeholder": "Chọn tài khoản ví"
+  },
+  "totalCapital": {
+    "label": "Tổng vốn",
+    "placeholder": "Nhập tổng vốn"
+  },
+  "defensiveAsset": {
+    "label": "Tài sản phòng ngự",
+    "placeholder": "Chọn tài sản phòng ngự"
+  },
+  "scheduledRunTime": {
+    "label": "Thời gian chạy định kỳ",
+    "placeholder": "Chọn thời gian chạy định kỳ"
+  },
+  "timeframe": {
+    "label": "Khung thời gian",
+    "placeholder": "Chọn khung thời gian"
+  },
+  "maType": {
+    "label": "Loại MA",
+    "placeholder": "Chọn loại MA"
+  },
+  "shortMaPeriod": {
+    "label": "Chu kỳ MA ngắn",
+    "placeholder": "50"
+  },
+  "longMaPeriod": {
+    "label": "Chu kỳ MA dài",
+    "placeholder": "200"
+  },
+  "indexCurrency": {
+    "label": "Tiền tệ chỉ số",
+    "placeholder": "Chọn tiền tệ chỉ số"
+  },
+  "notificationEmail": {
+    "label": "Email thông báo",
+    "placeholder": "Nhập email thông báo của bạn",
+    "disable-placeholder": "Email đã bị vô hiệu hóa"
+  },
+  "slackWebhookUrl": {
+    "label": "Slack Webhook URL",
+    "placeholder": "Nhập slack webhook url của bạn",
+    "disable-placeholder": "Slack đã bị vô hiệu hóa"
+  },
+  "telegramChatId": {
+    "label": "Telegram Chat ID",
+    "placeholder": "Nhập telegram chat id của bạn",
+    "disable-placeholder": "Telegram đã bị vô hiệu hóa"
+  },
+  "assets": {
+    "label": "Tài sản",
+    "placeholder": "Chọn tài sản của bạn"
+  },
+  "symbol": {
+    "label": "Symbol",
+    "placeholder": "Nhập symbol"
+  },
+  "logoUrl": {
+    "label": "Logo URL",
+    "placeholder": "Nhập logo URL"
+  },
+  "displayOrder": {
+    "label": "Thứ tự hiển thị",
+    "placeholder": "Nhập thứ tự hiển thị"
+  },
+  "priceProvider": {
+    "label": "Cung cấp giá",
+    "placeholder": "Chọn cung cấp giá"
+  },
+  "description": {
+    "label": "Mô tả",
+    "placeholder": "Nhập mô tả"
+  },
+  "provider": {
+    "label": "Provider",
+    "placeholder": "Chọn provider"
+  },
+  "apiKey": {
+    "label": "API Key",
+    "placeholder": "Nhập api key"
+  },
+  "secretKey": {
+    "label": "Secret Key",
+    "placeholder": "Nhập secret key"
+  }
+}

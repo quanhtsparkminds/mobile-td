@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 14% 97%; /* VISION */
+    --foreground: 212 14% 19%; /* ORACLE */
+    --card: 0 0% 100%; /* Pure white allowed for cards */
+    --card-foreground: 212 14% 19%; /* ORACLE */
+    --popover: 0 0% 100%;
+    --popover-foreground: 212 14% 19%; /* ORACLE */
+    --primary: 174 72% 46%; /* MINT */
+    --primary-foreground: 0 0% 100%; /* White for contrast */
+    --secondary: 210 14% 93%;
+    --secondary-foreground: 212 14% 19%; /* ORACLE */
+    --muted: 210 14% 93%;
+    --muted-foreground: 212 14% 40%;
+    --accent: 210 14% 93%;
+    --accent-foreground: 212 14% 19%; /* ORACLE */
+    --destructive: 0 100% 71%; /* PEACH */
+    --destructive-foreground: 0 0% 100%;
+    --border: 210 14% 89%;
+    --input: 210 14% 89%;
+    --ring: 174 72% 46%; /* MINT */
+    --radius: 0.625rem;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark:root {
+    --background: 212 14% 19%; /* ORACLE */
+    --foreground: 210 14% 97%; /* VISION */
+    --card: 212 14% 15%; /* Darker than ORACLE */
+    --card-foreground: 210 14% 97%; /* VISION */
+    --popover: 212 14% 15%;
+    --popover-foreground: 210 14% 97%; /* VISION */
+    --primary: 174 72% 46%; /* MINT */
+    --primary-foreground: 212 14% 19%; /* ORACLE */
+    --secondary: 212 14% 25%;
+    --secondary-foreground: 210 14% 97%; /* VISION */
+    --muted: 212 14% 25%;
+    --muted-foreground: 210 14% 65%;
+    --accent: 212 14% 25%;
+    --accent-foreground: 210 14% 97%; /* VISION */
+    --destructive: 0 100% 71%; /* PEACH */
+    --destructive-foreground: 0 0% 100%;
+    --border: 212 14% 30%;
+    --input: 212 14% 30%;
+    --ring: 174 72% 46%; /* MINT */
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}

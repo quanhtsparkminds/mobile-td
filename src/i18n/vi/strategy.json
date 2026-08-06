@@ -1,0 +1,93 @@
+{
+    "totalCapital": "Tổng vốn",
+    "currentValue": "Giá trị hiện tại",
+    "pnl": "Lãi/Lỗ",
+    "pnlPercent": "Lãi/Lỗ %",
+    "mode": "Chế độ chiến lược",
+    "walletCredentials": "Thông tin ví",
+    "timeframe": "Khung thời gian",
+    "movingAverages": "Đường trung bình",
+    "emailAlerts": "Cảnh báo qua email",
+    "lastUpdated": "Cập nhật",
+    "nextRotation": "Ngày xoay vòng tiếp theo",
+    "assets": "Tài sản",
+    "notScheduled": "Không có lịch trình",
+    "strategyMode": {
+        "FULLY_AUTOMATED": "Tự động hoàn toàn",
+        "ADVISORY_NOTIFY_ONLY": "Tư vấn (Chỉ thông báo)",
+        "ADVISORY_MANUAL_APPROVE": "Tư vấn (Phê duyệt thủ công)"
+    },
+    "marketHours": "Giờ thị trường: {{open}} - {{close}} ({{timezone}})",
+    "lunchBreak": "Giờ nghỉ trưa: {{start}} - {{end}}",
+    "strategies": {
+        "btn": {
+            "save": "Lưu"
+        },
+        "form": {
+            "assets": "Tài sản",
+            "searchAssets": "Tìm kiếm tài sản...",
+            "loadingAssets": "Đang tải tài sản...",
+            "noAssetsMatch": "Không có tài sản nào khớp với tìm kiếm",
+            "noAssetsAvailable": "Không có tài sản",
+            "selectedCount": "Đã chọn {{count}} tài sản",
+            "selectAsset": "Chọn tài sản",
+            "walletInvalid": "Ví không hợp lệ"
+        },
+        "edit": {
+            "title": "Sửa chiến lược",
+            "description": "Cập nhật tên chiến lược, tài sản hoặc khoảng thời gian kiểm tra.",
+            "saving": "Đang lưu...",
+            "error": "Cập nhật chiến lược thất bại. Vui lòng thử lại."
+        },
+        "stockModeConfirm": {
+            "title": "Chuyển sang chế độ Chứng khoán",
+            "description": "Chuyển sang chế độ Chứng khoán sẽ đặt chiến lược thành Tư vấn (Chỉ thông báo) và bật cảnh báo qua email. Tự động hóa hiện chỉ khả dụng cho Crypto.",
+            "note": "Lưu ý: Bạn vẫn có thể sử dụng Chỉ báo kỹ thuật để tạo tín hiệu cho Chứng khoán."
+        },
+        "assetPreview": {
+            "simpleConfirm": {
+                "addTitle": "Thêm {{asset}}",
+                "addMessage": "Bạn có chắc chắn muốn thêm {{asset}} vào chiến lược của mình không?",
+                "removeTitle": "Xóa {{asset}}",
+                "removeMessage": "Bạn có chắc chắn muốn xóa {{asset}} khỏi chiến lược của mình không?"
+            }
+        }
+    },
+    "preview": {
+        "title": "Xem trước chiến lược: {{strategyName}}",
+        "totalCapital": "Tổng vốn",
+        "allocatedPerAsset": "Phân bổ cho mỗi tài sản",
+        "estimatedLoss": "Ước tính lỗ",
+        "confirmCreate": "Xác nhận tạo chiến lược",
+        "tokenCostNote": "Tạo chiến lược này sẽ tốn 5 token",
+        "warnings": "Cảnh báo",
+        "disclaimer": "Đây là ước tính dựa trên giá thị trường hiện tại và dữ liệu trượt giá lịch sử. Giá trị thực tế có thể thay đổi do biến động thị trường và điều kiện thanh khoản.",
+        "conversionEstimates": "Ước tính chuyển đổi",
+        "totalEstimatedLoss": "Tổng ước tính lỗ",
+        "createSuccess": "Chiến lược đã được tạo thành công!"
+    },
+    "details": {
+        "dominant": "Chiếm ưu thế",
+        "allocatedCapital": "Vốn phân bổ",
+        "positionQty": "Số lượng vị thế",
+        "tradingSignal": "Tín hiệu giao dịch",
+        "defensiveSignal": "Tín hiệu phòng thủ",
+        "dominantAssets": "Tài sản chiếm ưu thế",
+        "nextRotation": "Ngày xoay vòng tiếp theo",
+        "notScheduled": "Không có lịch trình"
+    },
+    "signals": {
+        "shortMa": "MA ngắn hạn",
+        "longMa": "MA dài hạn",
+        "currentPrice": "Giá hiện tại",
+        "timeframe": "Khung thời gian",
+        "maPeriods": "Chu kỳ MA",
+        "crossover": "Cắt nhau",
+        "detected": "Phát hiện",
+        "neutralExplanation": "Không phát hiện xu hướng rõ ràng",
+        "bullExplanation": "MA ngắn hạn > MA dài hạn → Xu hướng tăng",
+        "bearExplanation": "MA ngắn hạn < MA dài hạn → Xu hướng giảm",
+        "errorTitle": "Không thể tải tín hiệu",
+        "errorDescription": "Không thể lấy tín hiệu giao dịch"
+    }
+}
