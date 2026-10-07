@@ -81,7 +81,7 @@ android {
 
     namespace "com.bzero"
     defaultConfig {
-        applicationId "com.example"
+        applicationId project.env.get("BUNDLE_ID")
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode project.env.get("VERSION_CODE").toInteger()
